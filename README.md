@@ -8,3 +8,10 @@ Ejecuta el siguiente comando:
 
 ```bash
 npm install --legacy-peer-deps
+```
+
+## 🚀 Ejecución del proyecto
+Una vez instaladas las dependencias, puedes iniciar el entorno de desarrollo con:
+```bash
+npm run dev
+```
