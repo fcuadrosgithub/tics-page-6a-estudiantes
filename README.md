@@ -18,7 +18,6 @@ npm run dev
 
 ## Nota: Es posible que al iniciar el proyecto veas un mensaje de error como:
 ![image](https://github.com/user-attachments/assets/838c1229-4e78-40fe-bb02-89b29ae9f8e5)
-Esto es normal. Simplemente abre manualmente la siguiente URL en tu navegador:
 
 ## Solucion
 Esto ocurre porque la página principal no está en la raíz (`/`).  
